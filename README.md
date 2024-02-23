@@ -59,7 +59,7 @@ Contents:
 |www23|Interaction-level Membership Inference Attack Against Federated Recommender Systems #联邦推荐 #成员推理攻击|[paper](https://arxiv.org/pdf/2301.10964.pdf)|
 |sigir23|Attacking Pre-trained Recommendation|
 |cikm 23|Single-User Injection for Invisible Shilling Attack against|[paper](https://arxiv.org/pdf/2308.10467.pdf)|
-|(WSDM'24)|User Consented Federated Recommender System Against Personalized Attribute Inference Attack|
+|(WSDM'24)|User Consented Federated Recommender System Against Personalized Attribute Inference Attack|[paper](https://arxiv.org/pdf/2312.16203.pdf)|
 
 **Deal with Unnoticeable**
 | Notes | Anomaly Detection | Unnoticable strategy |
@@ -97,7 +97,7 @@ Contents:
 |(RecSys'22)|Adversary or Friend? An adversarial Approach to Improving Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546784)|
 |(SIGIR'22)|Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering|[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531889?casa_token=FPJzUmj5p_EAAAAA:H0ho5yfn8noBLvfUTKdLC5C3bzbQfmiVUTfM3AAtyoLpPpPlKWJEwnP522d2Icr_WTTzptIz-b1E)|
 |www23|Anti-FakeU: Defending Shilling Attacks on Graph Neural Network based Recommender Model #图对抗|
-|(WSDM'24)|Defense Against Model Extraction Attacks on Recommender Systems|
+|(WSDM'24)|Defense Against Model Extraction Attacks on Recommender Systems|[paper](https://arxiv.org/pdf/2310.16335.pdf)|
 
 ## General
 ### Graph Anomaly Detection
