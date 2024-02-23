@@ -44,7 +44,10 @@ Contents:
 |(NDSS'21) sample probability: predicted rating scores|Data Poisoning Attacks to Deep Learning Based Recommender Systems|[paper](https://arxiv.org/pdf/2101.02644.pdf);[code](https://github.com/MiracleHH/RecommPoison)|
 |(TNNLS'22)|Shilling Black-Box Recommender Systems by Learning to Generate Fake User Profiles.|[paper](https://lihui.info/doc/TNNLS22.pdf);[code](https://github.com/XMUDM/ShillingAttack)|
 |(WSDM '22)|PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498386?casa_token=USuNz00wkAUAAAAA:TEReQgIHFOR5zpi4QyZk9pm_1WiU1LNSy-LYAvDRtmvB0xGFBqmtCOhXpZmZv4QgiPO_G0PwpEkI)|
+|KDD 2022 【联邦推荐的对抗攻击】|FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling. |
+| KDD 2021 【不完整及扰动数据攻击推荐系统】|Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data.|
 |(KDD’2022)VAE 去偏|Debiasing Learning for Membership Inference Attacks Against Recommender Systems. |
+|NIPS 2022 |Revisiting Injective Attacks on Recommender Systems. |
 |(ACM TIST'22)|Gray-Box Shilling Attack: An Adversarial Learning Approach|[paper](https://dl.acm.org/doi/full/10.1145/3512352?casa_token=i8WwfBzvbM4AAAAA%3A8BYP0deZ9X46ybqqQAoNmzGdKEtuQmdk0ieIfh-_yLC7R3Zi_3YNtC2L6n9DW6UuviUuBFTBRSBx)|
 |(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
 |(TOIS'22)|Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks|[paper](https://dl.acm.org/doi/10.1145/3567420)|
