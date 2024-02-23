@@ -54,6 +54,10 @@ Contents:
 |AAAI 2023|Untargeted Black-box Attacks for Social Recommendations|[paper](https://arxiv.org/abs/2311.07127)|
 |AAAI 2023|Practical Cross-system Shilling Attacks with Limited Access to Data|
 |kdd 23|UA-FedRec: Untargeted Attack on Federated News Recommendation|
+|www23|Anti-FakeU: Defending Shilling Attacks on Graph Neural Network based Recommender Model #图对抗|
+|www23|Membership Inference Attacks Against Sequential Recommender Systems #序列推荐 #成员推理攻击|
+|www23|Interaction-level Membership Inference Attack Against Federated Recommender Systems #联邦推荐 #成员推理攻击|[paper](https://arxiv.org/pdf/2301.10964.pdf)|
+|sigir23|Attacking Pre-trained Recommendation|
 |cikm 23|Single-User Injection for Invisible Shilling Attack against|[paper](https://arxiv.org/pdf/2308.10467.pdf)|
 |(WSDM'24)|User Consented Federated Recommender System Against Personalized Attribute Inference Attack|
 
@@ -89,9 +93,10 @@ Contents:
 |(TIFS'22)Discrimination of Attack Target |Three Birds With One Stone: User Intention Understanding and Influential Neighbor Disclosure for Injection Attack Detection|[paper](https://ieeexplore.ieee.org/abstract/document/9693911?casa_token=RN8HT_MiB3gAAAAA:xWAT4bkkWkbzYjlld0l63rLleBsQh1x3bVB8LuLfOwoYiRtAFbTAIpdNPR-TDIOWMIkZjl6E)|
 |(WISE'22)|Towards Robust Recommender Systems via Triple Cooperative Defense|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_40)|
 |(WDSM'22)robustness evaluation|RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3502192?casa_token=HDjA5oxaCW4AAAAA:QxiN8eLBzvQeRk-8pJVv_YjM-c9W9V0KFjppPTloqtYUsAIB4fYSlsYZ59gRRwS5A0JpfCGFRgwv)|
-|(RecSys'22)|Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders|[paper](https://dl.acm.org/doi/fullHtml/10.1145/3523227.3546770)|
+|(RecSys'22)序列推荐、对抗学习|Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders|[paper](https://dl.acm.org/doi/fullHtml/10.1145/3523227.3546770)|
 |(RecSys'22)|Adversary or Friend? An adversarial Approach to Improving Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546784)|
 |(SIGIR'22)|Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering|[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531889?casa_token=FPJzUmj5p_EAAAAA:H0ho5yfn8noBLvfUTKdLC5C3bzbQfmiVUTfM3AAtyoLpPpPlKWJEwnP522d2Icr_WTTzptIz-b1E)|
+|www23|Anti-FakeU: Defending Shilling Attacks on Graph Neural Network based Recommender Model #图对抗|
 |(WSDM'24)|Defense Against Model Extraction Attacks on Recommender Systems|
 
 ## General
