@@ -51,7 +51,10 @@ Contents:
 |(ACM TIST'22)|Gray-Box Shilling Attack: An Adversarial Learning Approach|[paper](https://dl.acm.org/doi/full/10.1145/3512352?casa_token=i8WwfBzvbM4AAAAA%3A8BYP0deZ9X46ybqqQAoNmzGdKEtuQmdk0ieIfh-_yLC7R3Zi_3YNtC2L6n9DW6UuviUuBFTBRSBx)|
 |(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
 |(TOIS'22)|Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks|[paper](https://dl.acm.org/doi/10.1145/3567420)|
-|(Under review)|Untargeted Black-box Attacks for Social Recommendations|[paper](https://arxiv.org/abs/2311.07127)|
+|AAAI 2023|Untargeted Black-box Attacks for Social Recommendations|[paper](https://arxiv.org/abs/2311.07127)|
+|AAAI 2023|Practical Cross-system Shilling Attacks with Limited Access to Data|
+|kdd 23|UA-FedRec: Untargeted Attack on Federated News Recommendation|
+|cikm 23|Single-User Injection for Invisible Shilling Attack against|[paper](https://arxiv.org/pdf/2308.10467.pdf)|
 |(WSDM'24)|User Consented Federated Recommender System Against Personalized Attribute Inference Attack|
 
 **Deal with Unnoticeable**
