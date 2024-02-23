@@ -21,6 +21,7 @@ Contents:
 |(2022)|A survey on trustworthy recommender systems|[paper](https://arxiv.org/pdf/2207.12515.pdf)|
 |(2022)|A survey for trust-aware recommender systems: A deep learning perspective|[paper](https://www.sciencedirect.com/science/article/pii/S0950705122004622?casa_token=csIwtqQxm9IAAAAA:iV7C7YKQ2tDY3oay2WmHrpRGFyZOWKzaQLbykYe0DWe0G3pfTz05jAVeDm6PAEqb3lC5gQG4)|
 |(2022)|Latest trends of security and privacy in recommender systems: A comprehensive review and future perspectives|[paper](https://www.sciencedirect.com/science/article/pii/S0167404822001419)|
+|(2023)|Adversarial machine learning for network intrusion detection systems: a comprehensive survey|
 ## Attack
 
 | Type | Paper names | Link |
