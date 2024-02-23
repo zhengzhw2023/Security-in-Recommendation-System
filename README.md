@@ -83,6 +83,7 @@ Contents:
 |(RecSys'22)|Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders|[paper](https://dl.acm.org/doi/fullHtml/10.1145/3523227.3546770)|
 |(RecSys'22)|Adversary or Friend? An adversarial Approach to Improving Recommender Systems|[paper](https://dl.acm.org/doi/abs/10.1145/3523227.3546784)|
 |(SIGIR'22)|Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering|[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531889?casa_token=FPJzUmj5p_EAAAAA:H0ho5yfn8noBLvfUTKdLC5C3bzbQfmiVUTfM3AAtyoLpPpPlKWJEwnP522d2Icr_WTTzptIz-b1E)|
+|(WSDM'24)|Defense Against Model Extraction Attacks on Recommender Systems|
 
 ## General
 ### Graph Anomaly Detection
