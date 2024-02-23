@@ -47,6 +47,7 @@ Contents:
 |(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
 |(TOIS'22)|Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks|[paper](https://dl.acm.org/doi/10.1145/3567420)|
 |(Under review)|Untargeted Black-box Attacks for Social Recommendations|[paper](https://arxiv.org/abs/2311.07127)|
+|(WSDM'24)|User Consented Federated Recommender System Against Personalized Attribute Inference Attack|
 
 **Deal with Unnoticeable**
 | Notes | Anomaly Detection | Unnoticable strategy |
