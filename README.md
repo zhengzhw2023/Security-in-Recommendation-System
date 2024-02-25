@@ -52,8 +52,8 @@ Contents:
 |(KDD'22)|Knowledge-enhanced Black-box Attacks for Recommendations|[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=o8mYvI3kovMAAAAA:891qkMp_5USTiJxnToTvFL3Cv7Bd12Fd5UqSM27ZdhLRB0gXoQ9I6CfwthbF8PxLqEaolrnUL3tT)|
 |(TOIS'22)|Poisoning GNN-based Recommender Systems with Generative Surrogate-based Attacks|[paper](https://dl.acm.org/doi/10.1145/3567420)|
 |AAAI 2023|Untargeted Black-box Attacks for Social Recommendations|[paper](https://arxiv.org/abs/2311.07127)|
-|AAAI 2023|Practical Cross-system Shilling Attacks with Limited Access to Data|
-|kdd 23|UA-FedRec: Untargeted Attack on Federated News Recommendation|
+|AAAI 2023|Practical Cross-system Shilling Attacks with Limited Access to Data|[paper](https://arxiv.org/pdf/2302.07145.pdf)|
+|kdd 23|UA-FedRec: Untargeted Attack on Federated News Recommendation|[paper](https://dl.acm.org/doi/10.1145/3580305.3599923)|
 |www23|Membership Inference Attacks Against Sequential Recommender Systems #序列推荐 #成员推理攻击|[paper](https://dl.acm.org/doi/10.1145/3543507.3583447)|
 |www23|Interaction-level Membership Inference Attack Against Federated Recommender Systems #联邦推荐 #成员推理攻击|[paper](https://arxiv.org/pdf/2301.10964.pdf)|
 |sigir23|Attacking Pre-trained Recommendation|[paper](https://arxiv.org/pdf/2305.03995.pdf)|
